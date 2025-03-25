@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611t2xb58p0eo28j3p39vv5c71z9u9z8aul3kxhuv3d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
 
 # 💫 About Me:
- Hello! I’m a Software Engineering student and a passionate young programmer eager to learn and grow professionally. At 18 years old and based in Colombia, I’m constantly honing my skills to stand out as a software engineer.<br><br>I have experience in JavaScript, HTML, CSS, and React, and I’m proficient with Git and GitHub, which I use to maintain effective version control in my projects. I also program in Java with a strong focus on object-oriented programming and have knowledge of Scrum methodology, allowing me to work in an organized and collaborative manner. Additionally, I hold a certified B2 level in English, which enables me to communicate and learn in international environments.<br><br>I am highly motivated to join a team where I can continue learning and growing while bringing my enthusiasm and creativity. I’m ready for new challenges and opportunities!
+🚀 Software Engineering student passionate about full-stack development | JavaScript, React, Java, Python enthusiast | Learning agile technologies and transforming complex challenges into innovative solutions | B2+ English | Constantly expanding technical skills and professional horizons | Colombian developer committed to growth and technological excellence | Open to collaborative projects and exciting opportunities
 
 
 ## 🌐 Socials:
