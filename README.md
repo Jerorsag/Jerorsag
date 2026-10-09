@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jerónimo Rodríguez — Backend-focused Full-Stack Developer | Software Engineering student" src="assets/header-light.svg" width="100%">
+  <img alt="Jerónimo Rodríguez — Backend-focused Full-Stack Developer | Software Engineering Student" src="assets/header-light.svg" width="100%">
 </picture>
 
 <br>
